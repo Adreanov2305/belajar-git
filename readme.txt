@@ -1,7 +1,7 @@
 Hello World.
 Apa kabar
 
-##Kesan dan Pesan
+##Kean dan Pesan
 git keren, saya suka.
 git canggih, menyenangkan.
 git Sulit.
